@@ -33,4 +33,4 @@ One of the things I'll be paying special attention to is the weather related ite
 
 In addition to temperature and forecast data, I want to know of severe alerts that are issued for my area. While NWS/NOAA does offer an [RSS feed](https://alerts.weather.gov) for these alerts, and HASS does offer a feed reader integration, I wasn't able to get that to work reliably. Thankfully, since this is Open Source, others have done similar work. There's a nice [noaa_alerts custom component](https://github.com/dcshoecomp/noaa_alerts) that's easy to add to HASS, and has worked well for me so far.
 
-In the next post, I'll go over setting up my first smart product and the HASS iCloud integration.
+In the next post, I'll go over setting up my first smart product and a few of the other integrations.
