@@ -16,7 +16,7 @@
 title: www.eafarris.com
 email: eric@eafarris.com
 description: > # this means to ignore newlines until "baseurl:"
-  I do occasionally have lucid moments. I'll try to document them here.
+  Despite appearances, I do occasionally have lucid moments. I'll try to document them here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.eafarris.com/"
 twitter_username: eafarris
