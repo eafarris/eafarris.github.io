@@ -4,6 +4,9 @@ title:  "Getting into a different house, and making it smart"
 date:   2017-07-27 09:40
 categories: hass synology blog
 ---
+
+# We've Moved!
+
 After 18 years living in a turn of the (last) century farmhouse, we've moved closer to town and into a more modern house (built 1968). There are many amenities here that are new to us, like a dishwasher, central air and heating, and grounded outlets where grounded outlets should be.
 
 One of the things I'd like to do with this house, given its more modernness, is to start to play around with smart home stuff, commonly referred to as the Internet of Things (IoT). This traditionally consists of putting devices on your home WiFi network that wouldn't ordinarily be on WiFi, like appliances, light bulbs, and power switches and outlets. Once you have some IoT devices, there are automations, tracking, and control that would otherwise be hard or impossible. 
@@ -15,6 +18,8 @@ I can dismiss Google and Amazon right away, as I've got philisophical problems w
 At this point, I should say that I'm not really interested in voice control, anyway. At least not so early on in this project. There's a stigma to this that I haven't been able to shake; I think people look and sound ridiculous talking to Siri or Alexa or whatever. I will concede that there are real benefits to just be able to talk to the air and have the lights come on, but it's not something I want to do right now, so systems that allow such things are, while beneficial, not part of my current plan.
 
 We're an Apple family, and exist in the Apple ecosystem almost exclusively. Everyone here has iPhones and iPads, our set-top box is an Apple TV, I spend my day on a MacBook Pro (while working from home), etc. So HomeKit is an obvious choice. There are real reasons to not consider a HomeKit-exclusive smart home, however. First is the width and breadth of devices available. HomeKit is a definite, if not distant, third behind Alexa and Google Home. Lots of devices support one or two of them, but leave out HomeKit. This is probably due to Apple's dual sided and well documented tax and hubris. While projects like [HomeBridge](https://homebridge.io) seek to bridge the gap (to astonishing degress of success, apparently), I'm not sure I want to dive so far into that world just yet. This might be something I look at in the future. But for now, a pure Apple HomeKit setup is not what I'm after. I'd like something that allows a wide range of devices from different manufacturers to all work as one system.
+
+# Hello, Home Assistant
 
 Which leaves my old pal Open Source. There are a couple projects out there that looked promising, but by far the one with the most potential is [Home Assistant](https://home-assistant.io), known as HASS. HASS is a suite of software culminating in a web-based interface for doing home automation. HASS has lots and lots of [integrations](https://www.home-assistant.io/integrations/), as hackers beat on protocols and APIs and decode them and write little software shims to support them within HASS.
 
