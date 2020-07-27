@@ -7,7 +7,7 @@ categories: hass synology blog
 
 # We've Moved!
 
-After 18 years living in a turn of the (last) century farmhouse, we've moved closer to town and into a more modern house (built 1968). There are many amenities here that are new to us, like a dishwasher, central air and heating, and grounded outlets where grounded outlets should be.
+After 18 years living in a turn of the (previous) century farmhouse, we've moved closer to town and into a more modern house (built 1968). There are many amenities here that are new to us, like a dishwasher, central air and heating, and grounded outlets where grounded outlets should be.
 
 One of the things I'd like to do with this house, given its more modernness, is to start to play around with smart home stuff, commonly referred to as the Internet of Things (IoT). This traditionally consists of putting devices on your home WiFi network that wouldn't ordinarily be on WiFi, like appliances, light bulbs, and power switches and outlets. Once you have some IoT devices, there are automations, tracking, and control that would otherwise be hard or impossible. 
 
