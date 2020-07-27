@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Getting into a different house, and making it smart"
 date:   2017-07-27 09:40
 categories: hass synology blog
